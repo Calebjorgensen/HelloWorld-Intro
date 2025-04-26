@@ -17,5 +17,4 @@ I used Python, for the easy readability, versatility, extensive libraries.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [W3Schools](https://www.w3schools.com/python/python_intro.asp)
